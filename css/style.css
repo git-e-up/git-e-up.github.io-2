@@ -570,3 +570,6 @@ a {
 #myCanvas{
   margin-bottom: 50px;
 }
+#message {
+  font-family: cursive;
+}
