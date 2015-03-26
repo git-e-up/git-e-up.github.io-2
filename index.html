@@ -1,1 +1,233 @@
-hello there
+<html>
+
+
+    <title>Matt</title>
+    <link rel="stylesheet" href="css/style.css">
+
+
+  <!-- </head>
+
+  <body>
+    <header>
+      Insert logo
+    </header>
+
+    <section>
+      <div id="column1">
+      </div>
+
+      <div id="column2">
+      </div>
+
+
+    </section>
+
+
+
+
+
+  </body>
+ -->
+
+
+<div class="main">
+  <ul class="hello" aria-label="hello">
+    <li>
+      <div class="h">
+        <span class="h-front-1 front">M</span>
+        <span class="h-front-2 front"></span>
+        <span class="h-left-1 left"></span>
+        <span class="h-left-2 left"></span>
+        <span class="h-left-3 left"></span>
+        <span class="h-right-1 right"></span>
+        <span class="h-right-2 right"></span>
+        <span class="h-right-3 right"></span>
+        <span class="h-top-1 top"></span>
+        <span class="h-top-2 top"></span>
+        <span class="h-top-3 top"></span>
+        <span class="h-bottom-1 bottom"></span>
+        <span class="h-bottom-2 bottom"></span>
+        <span class="h-bottom-3 bottom"></span>
+        <span class="h-back-1 back"></span>
+        <span class="h-back-2 back">M</span>
+      </div>
+    </li>
+    <li>
+      <div class="e">
+        <span class="e-front-1 front">A</span>
+        <span class="e-front-2 front"></span>
+        <span class="e-left-1 left"></span>
+        <span class="e-right-1 right"></span>
+        <span class="e-right-2 right"></span>
+        <span class="e-right-3 right"></span>
+        <span class="e-right-4 right"></span>
+        <span class="e-right-5 right"></span>
+        <span class="e-top-1 top"></span>
+        <span class="e-top-2 top"></span>
+        <span class="e-top-3 top"></span>
+        <span class="e-bottom-1 bottom"></span>
+        <span class="e-bottom-2 bottom"></span>
+        <span class="e-bottom-3 bottom"></span>
+        <span class="e-back-1 back"></span>
+        <span class="e-back-2 back">A</span>
+
+      </div>
+    </li>
+    <li>
+      <div class="l">
+        <span class="l-front-1 front">T</span>
+        <span class="l-left-1 left"></span>
+        <span class="l-right-1 right"></span>
+        <span class="l-right-2 right"></span>
+        <span class="l-top-1 top"></span>
+        <span class="l-top-2 top"></span>
+        <span class="l-bottom-1 bottom"></span>
+        <span class="l-back-1 back">T</span>
+      </div>
+    </li>
+    <li>
+      <div class="l">
+        <span class="l-front-1 front">T</span>
+        <span class="l-left-1 left"></span>
+        <span class="l-right-1 right"></span>
+        <span class="l-right-2 right"></span>
+        <span class="l-top-1 top"></span>
+        <span class="l-top-2 top"></span>
+        <span class="l-bottom-1 bottom"></span>
+        <span class="l-back-1 back">T</span>
+      </div>
+    </li>
+    <li>
+      <div class="o">
+        <span class="o-front-1 front"></span>
+        <span class="o-front-2 front"></span>
+        <span class="o-left-1 left"></span>
+        <span class="o-left-2 left"></span>
+        <span class="o-left-3 left"></span>
+        <span class="o-left-4 left"></span>
+
+        <span class="o-right-1 right"></span>
+        <span class="o-right-2 right"></span>
+        <span class="o-right-3 right"></span>
+        <span class="o-right-4 right"></span>
+
+
+
+        <span class="Lissner">Lissner
+        </span>
+
+
+
+
+        <span class="o-top-1 top"></span>
+        <span class="o-top-2 top"></span>
+        <span class="o-top-3 top"></span>
+        <span class="o-top-4 top"></span>
+
+        <span class="o-bottom-1 bottom"></span>
+        <span class="o-bottom-2 bottom"></span>
+        <span class="o-bottom-3 bottom"></span>
+        <span class="o-bottom-4 bottom"></span>
+        <span class="o-back-1 back"></span>
+        <span class="o-back-2 back">LISSNER</span>
+      </div>
+
+    </li>
+
+  </ul>
+
+</div>
+<p class="pg1">
+ Hi, I'm Matt. My favorite color is rgba(100, 84, 82, 1.0), known in some circles as "wenge". That's pretty much the extent of my css knowledge, but it's the background on this text and the color for the links on this disaster of a website.</p>
+ <p class="pg1">
+ I made the Star of David below using canvas. Are you impressed yet? Check out page 2 for some really awesome music!
+</p>
+<canvas id='myCanvas' width='1000' height='266'>
+</canvas>
+
+  <a href="pg2.html">PAGE 2</a>
+
+<footer>
+  &copy;
+  &reg;
+  Matt Designs - 2015.
+  Don't steal my shit. J/K. It's all you.
+
+</footer>
+<script>
+var canvas = document.getElementById('myCanvas');
+var ctx = canvas.getContext('2d');
+var truckX = 0;
+var carX = 340
+
+ function drawTruck() {
+
+}
+
+function drawCar() {
+
+
+
+ctx.beginPath();
+//  ctx.strokeStyle = 'black';
+ctx.moveTo(carX, 300-100);
+var a = ctx.lineTo(carX+200, 300-100);
+var b = ctx.lineTo(carX+100, 100-100);
+var c = ctx.lineTo(carX, 300-100);
+ctx.fillStyle = 'blue';
+ctx.fill();
+
+ctx.beginPath();
+//  ctx.strokeStyle = 'black';
+ctx.moveTo(carX, 166-100);
+var a = ctx.lineTo(carX+200, 166-100);
+var b = ctx.lineTo(carX+100, 366-100);
+var c = ctx.lineTo(carX, 166-100);
+ctx.fillStyle = 'blue';
+ctx.fill();
+}
+
+
+
+
+
+
+
+function draw() {
+
+
+}
+
+function draw2() {
+  ctx.fillStyle = "rgba(185, 186, 156, 1.0)";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  ctx.fillStyle = "yellow";
+
+
+
+  if (carX>canvas.width){
+    carX = 0;
+  } else {
+    carX++;
+  }
+
+  if (truckX>canvas.width){
+    truckX = 0;
+  } else {
+    truckX +=2;
+  }
+
+  drawTruck()
+  drawCar()
+
+
+}
+
+setInterval(draw, 15);
+setInterval(draw2, 10);
+
+
+</script>
+
+</html>
