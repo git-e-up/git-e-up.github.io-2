@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Squakr"
+description: A twitter emulator
+date:   2015-05-15 16:42:48
+categories: Rails
+
+---
+
+<img src= " " alt= 'BarCrawlApp image'>
+
+**Technologies used**
+Rails
+
+**Live Application**
+<a href=" " target="_blank">Choose Your Own Disaster</a>
+
+**Link to repository**
+<a href="https://github.com/git-e-up/Squakr" target="_blank">git-e-up/Squakr</a>
