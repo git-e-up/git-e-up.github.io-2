@@ -1,0 +1,13 @@
+# Site settings
+title: Matt's Portfolio
+email: mlissne@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your portfolio here!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://git-e-up.github.io" # the base hostname & protocol for your site
+twitter_username: Mattvsfood
+github_username:  git-e-up
+linked_in_username: Matthew Lissner
+
+# Build settings
+markdown: kramdown
