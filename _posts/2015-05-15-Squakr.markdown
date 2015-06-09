@@ -7,7 +7,7 @@ categories: Rails
 
 ---
 
-<img src= " " alt= 'BarCrawlApp image'>
+<img src= "/img/squakr.gif" alt= 'BarCrawlApp image'>
 
 **Technologies used**
 Rails
