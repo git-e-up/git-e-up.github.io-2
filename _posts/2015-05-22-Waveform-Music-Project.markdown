@@ -16,4 +16,4 @@ D3.js
 <a href="http://git-e-up.github.io/Waveform-Music-Project/" target="_blank">Waveform-Music-Project</a>
 
 **Link to repository**
-<a href="https://github.com/git-e-up/Waveform-Music-Project/tree/master" target="_blank">git-e-up/D3.js-Waveform-Music-Project</a>
+<a href="https://github.com/git-e-up/Waveform-Music-Project/tree/master" target="_blank">git-e-up/Waveform-Music-Project</a>
