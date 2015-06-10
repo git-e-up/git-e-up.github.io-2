@@ -13,7 +13,7 @@ categories: Sinatra, Backbone.js
 Rails, Owl Carousel
 
 **Live Application**
-<a href="#" target="_blank">RESTaurant</a>
+<a href="https://rest-aurant.herokuapp.com/" target="_blank">RESTaurant</a>
 
 **Link to repository**
 <a href="https://github.com/git-e-up/RESTaurant" target="_blank">git-e-up/RESTaurant</a>
