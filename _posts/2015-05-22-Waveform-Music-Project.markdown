@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Waveform-Music-Project"
-description: Cool Music Display
+description: This is a cool represantion of music
 date:   2015-05-22 17:37:02
 categories: D3 D3.js
 

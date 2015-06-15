@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Squakr"
-description: A twitter emulator
+description: This is my spin on a twitter emulator
 date:   2015-05-15 16:42:48
 categories: Rails
 

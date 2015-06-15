@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stripe-Fees"
-description: I created an app to display stripe fees over a date range
+description: This displays stripe fees over your selected date range
 date:   2015-06-06 11:02:07
 categories: Rails JQuery Boostrap Stripe
 

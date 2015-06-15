@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Choose Your Own Disaster - BarCrawlApp"
-description: App to display bar crawls
+description: An app to help plan and display bar crawls
 date:   2015-05-25 10:08:22
 categories: Rails JQuery Skeleton Yelp_gem Google_maps_api
 
