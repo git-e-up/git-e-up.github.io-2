@@ -10,7 +10,7 @@ categories: Sinatra, Backbone.js
 <img src= "https://raw.githubusercontent.com/git-e-up/RESTaurant/master/screenshot.png" alt= 'RESTaurant image'>
 
 **Technologies used**
-Rails, Owl Carousel
+Sinatra, Backbone.js
 
 **Live Application**
 <a href="https://rest-aurant.herokuapp.com/" target="_blank">RESTaurant</a>

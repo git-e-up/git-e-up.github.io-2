@@ -10,7 +10,7 @@ categories: Rails
 <img src= "/img/squakr.gif" alt= 'BarCrawlApp image'>
 
 **Technologies used**
-Rails
+Rails, Owl Carousel
 
 **Live Application**
 <a href="https://squakr.herokuapp.com/" target="_blank">Squakr</a>
