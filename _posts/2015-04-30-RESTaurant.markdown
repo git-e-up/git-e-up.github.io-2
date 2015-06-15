@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RESTaurant"
-description: A twitter emulator
+description: Restauarant ordering and POS system
 date:   2015-04-30 13:12:22
 categories: Sinatra, Backbone.js
 
